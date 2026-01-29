@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-zinc-950 text-zinc-50">
       <div className="mx-auto max-w-5xl px-6 py-16">
         <h1 className="text-4xl font-semibold tracking-tight">
-          Decision Memory
+          Decision Memory ✅
         </h1>
 
         <p className="mt-4 max-w-2xl text-zinc-300">
